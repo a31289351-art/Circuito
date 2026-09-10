@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a31289351-art.github.io/Circuito/sitemap.xml
